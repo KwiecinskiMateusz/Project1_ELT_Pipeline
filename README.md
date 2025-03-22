@@ -12,4 +12,4 @@ This project is my first portfolio piece in Data Analysis, providing hands-on ex
 - Added electricity production per capita as a new calculated column.
 - Performed basic data aggregation for enhanced code usability.
 
-The final dataset is export-ready in CSV format for further potential analysis and visualization.
+**The final dataset is export-ready in CSV format for further potential analysis and visualization.**
